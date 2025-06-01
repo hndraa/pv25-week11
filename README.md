@@ -11,6 +11,7 @@
 ### Bantuan
 ![image](https://github.com/user-attachments/assets/ea1f3fab-d262-419e-81e5-0a62d3ad86b7)
 ### Buka dokumentasi
+![image](https://github.com/user-attachments/assets/b731f00f-fe24-46a9-8f0b-02853231f723)
 
 ## Status Bar (Menampilkan Nama | NIM):
 ![image](https://github.com/user-attachments/assets/ddd73ba5-8f24-48c1-8394-68e28a6363d4)
